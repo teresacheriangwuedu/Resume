@@ -1,12 +1,8 @@
 # Skills
 # Engineering Design (CAD/CAM) & Computer Programming/Software
 - skill: Engineering Design (CAD/CAM) & Computer Programming/Software
-  description: >
-    Certification by Certiport in Autodesk Fusion 360 (2024)
-    Proficient in Autodesk AutoCAD 2026 and Python (Jupyter IPython, Anaconda/Thonny)
-    Familiar with MATLAB and Solidworks
+  description: Certification by Certiport in Autodesk Fusion 360 (2024); Proficient in Autodesk AutoCAD 2026 and Python (Jupyter IPython, Anaconda/Thonny); Familiar with MATLAB and Solidworks
 
 # Manufacturing & Prototyping (Hardware)
 - skill: Manufacturing & Prototyping (Hardware)
-  description: Proficient with 3D Printing (Additive Manufacturing) and VEX V5 Code/Hardware
-  description: Familiar with CNC Machine Operation and Raspberry Pi Hardware
+  description: Proficient with 3D Printing (Additive Manufacturing) and VEX V5 Code/Hardware; Familiar with CNC Machine Operation and Raspberry Pi Hardware
