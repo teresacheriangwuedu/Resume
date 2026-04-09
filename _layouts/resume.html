@@ -175,6 +175,26 @@
       <!-- end Associations -->
       {% endif %}
 
+    {% if site.resume_print_social_links %}
+      <!-- begin Print Social Links -->
+      <section class="content-section print-only">
+
+        <header class="section-header">
+          <h2>Social Links</h2>
+        </header>
+
+        <div class="resume-item">
+        {% include print-social-links.html %}
+        </div>
+
+      </section>
+      <!-- end Print Social Links -->
+      {% endif %}
+
+      <footer class="page-footer">
+        <p class="footer-line">Teresa Cherian</a>.</p>
+      </footer>
+
       {% if site.resume_section_interests %}
       <!-- begin Interests -->
       <section class="content-section">
@@ -194,26 +214,6 @@
       </section>
       <!-- end Interests -->
       {% endif %}
-
-      {% if site.resume_print_social_links %}
-      <!-- begin Print Social Links -->
-      <section class="content-section print-only">
-
-        <header class="section-header">
-          <h2>Social Links</h2>
-        </header>
-
-        <div class="resume-item">
-        {% include print-social-links.html %}
-        </div>
-
-      </section>
-      <!-- end Print Social Links -->
-      {% endif %}
-
-      <footer class="page-footer">
-        <p class="footer-line">Teresa Cherian</a>.</p>
-      </footer>
 
     </div>
 
