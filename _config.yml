@@ -12,6 +12,7 @@ sass:
 # resume_avatar:                 "true"
 resume_name:                    "Teresa Cherian"
 resume_title:                   "Student in Mechanical & Aerospace Engineering"
+url: http://www.linkedin.com/in/teresa-cherian-949400369
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "teresa.cherian@gwu.edu"
