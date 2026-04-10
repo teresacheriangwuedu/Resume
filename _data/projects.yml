@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# George Washington University - Design Justice Course
+- project: George Washington University - Design Justice Course
+  role: eNABLE D.C. Project - Community-Based Participatory Engineering Design
+  duration: 2026-Current
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Collaborating with e-NABLE D.C. to optimize open-source prosthetic upper-limb devices, ensuring solutions meet the specific everyday needs of international users; Redesigning a cost-effective prosthetic to address critical limitations in durability, waterproofing, and functional mobility through phases of CAD modeling, iterative prototyping, and rigorous testing to enhance real-world usability without compromising affordability for consumers
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Howard High School - Project Lead the Way Course
+- project: Howard High School - Project Lead the Way Course
+  role: Senior Engineering Design & Development Capstone - Project Collaborator
+  duration: 2024-2025
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Participated in a year-long capstone course to identify a real-world problem, research, design, prototype, test, and present an original solution; Engineered an original, impact-resistant solution to mitigate the $400 average annual loss women face from cosmetic breakage; collaborated with three other group members in research, CAD modeling, and iterative prototyping - resulting in a successful design that placed fourth in a county-wide senior engineering showcase
